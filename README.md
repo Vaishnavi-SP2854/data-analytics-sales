@@ -130,4 +130,4 @@ Version Control with GitHub
 This project demonstrates how raw sales data can be transformed into
 actionable business insights using Python. The analysis showcases practical
 data analytics skills relevant to internships, entry-level roles, and
-real-world business scenarios.
+real-world business scenarios...
