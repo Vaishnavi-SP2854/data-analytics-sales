@@ -8,7 +8,7 @@ The analysis is performed using Python and documented in a Jupyter Notebook.
 The project examines revenue distribution, product performance, customer value,
 and regional contribution to identify growth opportunities and business risks.
 
----.
+--
 
 ## 🎯 Objectives
 - Identify top revenue-generating products
